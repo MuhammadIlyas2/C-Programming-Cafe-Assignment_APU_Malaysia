@@ -36,15 +36,15 @@ The APU Programming Café Management System is designed to enhance students' pro
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/APU-Programming-Cafe-Management-System.git
+    git clone https://github.com/MuhammadIlyas2/C-Programming_Cafe_Assignment.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd APU-Programming-Cafe-Management-System
+    cd C-Programming_Cafe_Assignment
     ```
 3.  **Build the project:**
     ```bash
-    gcc -o cafe_management_system cafe_management_system.c
+    gcc -o cafe_management_system main.c
     ```
 4.  **Run the application:**
     ```bash
