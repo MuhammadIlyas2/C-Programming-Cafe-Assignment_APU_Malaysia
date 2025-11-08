@@ -10,6 +10,7 @@ The APU Programming Café Management System is designed to enhance students' pro
 *   **Admin:**
     *   Add, remove, and manage student accounts.
     *   Add, remove, and manage tutor accounts.
+    *   Default Admin Password: @Password123
 *   **Tutor:**
     *   View their assigned programming sessions.
     *   Manage interactions with enrolled students.
